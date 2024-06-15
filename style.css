@@ -7,7 +7,7 @@ body {
   margin-left: auto;
   padding-right: 20px;
   padding-left: 20px;
-  border: 8px outset LightSalmon;
+  border: 1px solid Wheat;
 }
 .topBar {
   border: 5px ridge grey;
