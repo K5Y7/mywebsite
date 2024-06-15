@@ -1,6 +1,11 @@
 body {
   background-color:Snow;
 }
+.wrapper {
+  max-width: 1280px; 
+  margin-right: auto;
+  margin-left: auto;
+}
 .topBar {
   border: 5px ridge grey;
   background-color: Linen;
