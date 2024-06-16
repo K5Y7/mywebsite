@@ -1,5 +1,5 @@
 body {
-  background-color:PowderBlue;
+  background-color:SteelBlue;
 }
 .wrapper {
   background-color:Snow;
@@ -8,7 +8,6 @@ body {
   margin-left: auto;
   padding-right: 20px;
   padding-left: 20px;
-  border: 1px solid Wheat;
 }
 .topBar {
   border: 5px ridge grey;
