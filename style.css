@@ -1,7 +1,8 @@
 body {
-  background-color:Snow;
+  background-color:PowderBlue;
 }
 .wrapper {
+  background-color:Snow;
   max-width: 1280px; 
   margin-right: auto;
   margin-left: auto;
